@@ -1,0 +1,8 @@
+Application$1.class
+clusterManagement/LeaderElection$1.class
+clusterManagement/ServiceRegistry$1.class
+clusterManagement/LeaderElection.class
+clusterManagement/OnElectionEventAction.class
+clusterManagement/OnElectionEventCallback.class
+Application.class
+clusterManagement/ServiceRegistry.class
